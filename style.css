@@ -74,7 +74,7 @@ body{
     position: absolute;
     bottom: 8px;
     right: 5px;
-   padding: 4px;
+    padding: 4px;
     z-index: 0;
 
    
@@ -116,7 +116,7 @@ body{
     border-bottom-color: rgb(220, 215, 215);
     right: 0px;
     left: 0px;
-    z-index: 100px;
+    z-index: 300px;
 
 
 }
